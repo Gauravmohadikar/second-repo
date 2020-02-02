@@ -1,0 +1,113 @@
+<style>#menu {
+    padding: 0;
+}
+
+#menu li {
+    display: inline;
+}
+
+#menu li a {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+#menu li a:hover {
+    background-color: orange;
+}
+
+#gaurav {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 4px;
+    text-decoration: none;
+    margin-left: 8px;
+}
+
+#gaurav:hover {
+    background-color: green;
+}
+
+#gaurav:active {
+    background-color: orange;
+}
+
+#gauravmohadikar {
+    margin-left: 20px;
+    outline: 5px solid black;
+}
+
+#unorder {
+    background-color: lightgreen;
+    padding: 30px;
+}
+
+#unorder li {
+    background-color: rgb(156, 152, 152);
+    padding: 5px;
+    margin: 10px;
+    color: black;
+}
+
+#unorder li:hover {
+    background-color: lightslategray;
+}
+
+#order {
+    background-color: rgb(245, 99, 89);
+    padding: 30px;
+}
+
+#order li {
+    background-color: rgb(156, 152, 152);
+    padding: 5px;
+    margin: 10px;
+    color: black;
+}
+
+#order li:hover {
+    background-color: lightslategray;
+}
+
+#table tr:hover {
+    background-color: lightslategrey;
+}
+
+.div1 {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    background-color: black;
+    color: white;
+    font-family: 'courier';
+    font-size: 12px;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+#span1 {
+    background-color: lightslategray;
+    color: black;
+}
+
+.div2 {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: black;
+    color: white;
+    font-family: 'courier';
+    font-size: 12px;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+#span2 {
+    background-color: lightslategrey;
+    color: black;
+}
+
+</style>
